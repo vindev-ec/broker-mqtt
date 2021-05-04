@@ -1,0 +1,17 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Vindev (EC) | Ing. Steven Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6"
+  }
+}
