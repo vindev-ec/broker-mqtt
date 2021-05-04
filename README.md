@@ -1,6 +1,6 @@
 # Broker MQTT IoT 
 
-![](img/references/1.png | width=100)
+![](img/references/1.png =250x250)
 
 ## Node.js Version
 
