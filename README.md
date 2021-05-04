@@ -1,4 +1,4 @@
-# Broker MQTT IoT | VinDev (EC)
+# Broker MQTT IoT 
 
 ![](img/references/1.png)
 
